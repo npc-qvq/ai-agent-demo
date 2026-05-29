@@ -1,12 +1,21 @@
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build
 target/
 *.class
 *.jar
 *.war
-*.log
-.idea/
-*.iml
-.vscode/
-.settings/
-.project
-.classpath
-bin/
+
+# Maven
+dependency-reduced-pom.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 敏感配置：只有把 application.properties 改名后才参与 Git
+application.properties
