@@ -2,6 +2,8 @@ package com.haihu.agent;
 
 /**
  * 工具调用结果，包含对应的工具调用 ID 和返回内容。
+ * @author NPC
+ * @date 2026-06-03
  */
 public class ToolResult {
 
