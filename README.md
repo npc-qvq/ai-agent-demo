@@ -1,7 +1,6 @@
 # AI agent Demo
 
 基于 OpenAI 兼容 API 的轻量级 Java Agent 框架，支持工具调用（Tool Calling）。
-这个项目只是记录自己对于agent调用最初的理解
 
 ## 架构
 
